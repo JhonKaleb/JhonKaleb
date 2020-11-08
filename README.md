@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Vue.JS
 - 💬 Ask me about: Python Django
 - 📫 How to reach me: jhon.kaleb@hotmail.com
-- ⚡ Fun fact: My name was supposed to be john but it was registered wrong when I born.
+- ⚡ Fun fact: My name was supposed to be John but it was registered wrong when I born.
