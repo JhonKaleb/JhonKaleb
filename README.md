@@ -1,4 +1,4 @@
-### Hi there, here is some informations about me 👋
+![image](https://github.com/JhonKaleb/JhonKaleb/blob/main/code.png)
 
 - 🔭 I’m currently working on Data Engineering and some personal projects .
 - 🌱 I’m currently learning Vue.JS
