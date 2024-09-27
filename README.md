@@ -1,6 +1,6 @@
 ![image](https://github.com/JhonKaleb/JhonKaleb/blob/main/code3.png)
 
-- 🔭 I’m currently working on Software Developer with Node.js.
+- 🔭 I’m currently working on Software Developer with Kotlin.
 - 🌱 I’m currently learning Block Chain
 - 💬 Ask me about: Clean Code
 - 📫 How to reach me: jhon.kaleb@hotmail.com
